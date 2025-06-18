@@ -1,7 +1,12 @@
 andrew.0(양정석) / 카카오 / AI Engineering 
-benedict.lee(이호정) / 카카오 / AI Native Company TF
+benedict.lee(이호정) / 카카오 / 바이브워커
 marko.k(김민석) / 카카오 / AI Alignment
 joel.j(장원준) / 카카오 / AI Alignment
 herschel.alway(오창화) / 카카오 / 클린플랫폼
 young.psy(박시용) / 카카오모빌리티 / 차량관리서비스파트
 tony(차현승) / (확인중) / 카카오 AI Advanced 교육 강사
+albert.hoon(김경훈) / 카카오 / AI Safety
+james.star(안정수) / 카카오 / AI 플랫폼
+queue.min(민규식) / 카카오 / Adaptive AI
+peter.brain(노병석) / 카카오 / Multimodal LLM Core
+paul.51(유영걸) / AXZ / 서비스 기획자
