@@ -10,3 +10,4 @@ james.star(안정수) / 카카오 / AI 플랫폼
 queue.min(민규식) / 카카오 / Adaptive AI
 peter.brain(노병석) / 카카오 / Multimodal LLM Core
 paul.51(유영걸) / AXZ / 서비스 기획자
+michael.l22(이주영) / 카카오 / Multimodal LLM Application
