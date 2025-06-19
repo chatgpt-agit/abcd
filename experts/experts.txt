@@ -15,3 +15,6 @@ index.i(신명철) / 카카오 / Large Language Model
 hans.d(김한샘) / 카카오 / Visual Content Generative AI
 mat.mul(김보섭) / 카카오 / Language Model Training
 ian.doyoun(김도윤) / 카카오엔터프라이즈 / AI검색모델링
+ras.lee(이승준) / 카카오 / 데이터응용기술연구
+jason.gk(김응균) / 카카오 / Language Model Agent
+hubert.d(이동훈) / 카카오 / Language Model Agent
