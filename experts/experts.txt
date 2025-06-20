@@ -18,3 +18,6 @@ ian.doyoun(김도윤) / 카카오엔터프라이즈 / AI검색모델링
 ras.lee(이승준) / 카카오 / 데이터응용기술연구
 jason.gk(김응균) / 카카오 / Language Model Agent
 hubert.d(이동훈) / 카카오 / Language Model Agent
+charlie.cs(황우성) / 카카오 / AI Alignment
+zoey.fully(조혜연) / 카카오 / 클랜플랫폼
+andy.sg((박승규) / 카카오엔터테인먼트 / AI응용기술개발
